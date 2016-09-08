@@ -3,14 +3,20 @@ import java.util.*;
 import java.io.*;
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> Praveen
+>>>>>>> master
 		public class AppProperties 
 		{
 			private static AppProperties self = null;//static object for app proprties
 			private Properties properties;
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 
 		public static AppProperties getInstance() 
 		{
@@ -36,6 +42,8 @@ import java.io.*;
 		{
 			return properties;//return properties getting from file
 		}
+<<<<<<< HEAD
+=======
 =======
 public class AppProperties 
 {
@@ -77,4 +85,5 @@ public class AppProperties
 >>>>>>> Praveen
 =======
 >>>>>>> Praveen
+>>>>>>> master
 }
